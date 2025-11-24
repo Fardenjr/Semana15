@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActividadMQTT</string>
+    <string name="received_message">Mensaje: %1$s</string>
+</resources>
